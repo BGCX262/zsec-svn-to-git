@@ -1,0 +1,612 @@
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 6661
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 6661
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 6661
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 6661
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9999
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9999
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9998
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9998
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9998
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9998
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9998
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace de red con 127.0.0.1. Despidiendo.
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace de red con 127.0.0.1. Despidiendo.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace de red con 127.0.0.1. Despidiendo.
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace de red con 127.0.0.1. Despidiendo.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9902
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace con 127.0.0.1. Despidiendo.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace con 127.0.0.1. Despidiendo.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Error en el enlace con 127.0.0.1. Despidiendo.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9902
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Cerrada conexion  con 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Cerrada conexion  con 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Cerrada conexion  con 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 0.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Enviada clave Jub-K a cliente 127.0.0.1
+[zSec] Cerrada conexion  con 127.0.0.1
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 1.0[SVN] by Jubjub}
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 1.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 1.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9900
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Enviada clave Jub-K a cliente 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Licencia inexistente. Cerrando conexion.
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Licencia inexistente. Cerrando conexion.
+------------------------------
+           _____              
+          / ____|             
+      ___| (___   ___  ___    
+     |_  /\___ \ / _ \/ __|   
+     / / ____) |  __/ (__     
+    /___|_____/ \___|\___|    
+------------------------------
+                    {zSec Server 1.0[SVN] by Jubjub}
+
+
+
+[zSec] Servidor a la escucha en el puerto 9901
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Enviada clave Jub-K a cliente 127.0.0.1
+[zSec] Conexion abierta desde la IP: 127.0.0.1
+[zSec] Licencia inexistente. Cerrando conexion.

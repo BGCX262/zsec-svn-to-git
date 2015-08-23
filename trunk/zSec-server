@@ -1,0 +1,145 @@
+#!/usr/bin/python
+# -*- coding: iso-8859-1
+import socket, sys, thread, os, re, math, md5, sha, MySQLdb
+#============CONF===================
+#[h]Modo de desarrollo
+debugmode = 1
+#[h]Numero de version
+version = "1.2[SVN]"
+#[h]Puerto de acceso
+port = 9900
+#[h]Limite de conexiones
+max_conn = 10
+#[h]Modo netcat
+netcat = 1
+#  [h]Configuraciones MySQL
+#[h]Usuario MySQL
+muser = "root"
+#[h]Contraseña MySQL
+mpass = "test123"
+#[h]Host MySQL
+mhost = "localhost"
+#[h]Base de datos MySQL
+mdb = "zsec"
+#==================================
+
+#[-] Declaracion de funciones
+
+#[rh]Guarda la salida producida en log.txt y la muestra por pantalla.
+def log(message):
+    os.popen ("echo \"" + message + "\" >> log.txt")
+    print message
+    
+#[rh]Algoritmo Jub-K en su version 3. Toma tres keys para generar un hash.
+def jubk (keya, keyb, keyc):
+    tmp = 0
+    tmp = math.log (keya) * math.pow (keyb,2)
+    tmp = tmp / math.pow (keyc,2)
+    tmp = tmp * keya+keyb
+    tmp = tmp + math.sqrt (keyc*keya)
+    return str(tmp)
+    
+def check_license (cursor_mysql, ip_remota, producto):
+    cursor_mysql.execute("SELECT license FROM licencias WHERE ip = '" + ip_remota + "' AND producto = '" + producto + "'")
+    result = cursor_mysql.fetchall()
+    try:
+        license = result[0][0]
+    except:
+        license = "Inexistente"
+    return license
+    
+def serveclient(c):
+    global v,max_conn,vlock,nclntlock
+    #[DBG]Codigo de ejecucion
+    keya = 0
+    keyb = 0
+    remoteip = str(c.getpeername()[0])
+
+    c.send ("zSec " + version + " at Jubjub-Haven. Port " + str(port))
+    log ( "[zSec] Conexion abierta desde la IP: " + remoteip)
+    license = ""
+    licensed = 1
+    keya = c.recv(1024)
+    keyb = c.recv(1024)
+    keyc = c.recv(1024)
+    license = c.recv(1024)
+    nproducto = c.recv(1024)
+    
+    #[rh]Sustituye saltos de lineas para casos de netcat.
+    if netcat == 1:
+        keya = keya.replace ("\n","")
+        keyb = keyb.replace ("\n","")
+        keyc = keyc.replace ("\n","")
+        license = license.replace ("\n","")
+        nproducto = nproducto.replace ("\n","")  
+          
+    #[!]Comprobar validez del par IP-Licencia. Por hacer.
+    tmp = check_license (cursor, remoteip, nproducto)
+    if tmp == "Inexistente" or tmp != license:
+        log ("[zSec] Licencia inexistente. Cerrando conexion.")
+        licensed = 0
+    #[rh]Devuelve el codigo producido
+    if licensed:
+        try:
+            c.send (jubk(long(keya),long(keyb),long(keyc)))
+            log ("[zSec] Enviada clave Jub-K a cliente " + str(c.getpeername()[0]))
+        except:
+            log ("[zSec] Cerrada conexion  con " + str(c.getpeername()[0]))
+            c.close()
+    #[DBG]Fin del codigo de ejecucion  
+      
+    c.close()
+    nclntlock.acquire()
+    nclntlock.release()
+    
+
+
+
+    
+    
+
+log ("------------------------------")
+log ("           _____              ")
+log ("          / ____|             ")
+log ("      ___| (___   ___  ___    ")
+log ("     |_  /\___ \ / _ \/ __|   ")
+log ("     / / ____) |  __/ (__     ")
+log ("    /___|_____/ \___|\___|    ")
+log ("------------------------------")
+log ( "                    {zSec Server " + version + " by Jubjub}")
+
+try:
+    db = MySQLdb.connect(host=mhost, user=muser, passwd=mpass, db=mdb)
+    cursor = db.cursor()
+except:
+    log ("[zSec] Error al conectar con MySQL")
+    exit()
+    
+
+lstn = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+if debugmode:
+    portaccepted = 0;
+    while portaccepted!=1:
+        try:
+            lstn.bind(("", port))
+            portaccepted=1
+        except:
+            port +=1
+else:
+    try:
+        lstn.bind(("", port))
+    except:
+        log ("[zSec] Error al intentar bloquear el puerto " + port + ". Cierra las aplicaciones que puedan estar utilizandolo.")
+
+log ( "\n\n\n[zSec] Servidor a la escucha en el puerto " + str(port))
+
+lstn.listen(5)
+v = ""
+vlock = thread.allocate_lock()
+nclntlock = thread.allocate_lock()
+
+while 1:
+    (clnt,ap) = lstn.accept()
+    thread.start_new_thread(serveclient,(clnt,))
+
+lstn.close()
